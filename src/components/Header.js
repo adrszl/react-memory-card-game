@@ -6,7 +6,9 @@ function Header() {
       <div className="row flex-nowrap justify-content-between align-items-center">
         <div className="col-12">
           <span>React Memory Card Game</span>
-          <span>+ | -</span>
+          <span>[to be added zoom] + | -</span>
+          <span><br/>[to be added select number of cards]</span>
+          <span><br/>[to be added select images category]</span>
         </div>
       </div>
     </header>
